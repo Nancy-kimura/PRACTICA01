@@ -1,0 +1,8 @@
+#menu-bar {
+    display: none;
+}
+
+.menu a:hover {
+    background: rgba(255,255,255,0.3);
+}
+

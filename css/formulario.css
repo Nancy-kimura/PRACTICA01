@@ -1,0 +1,50 @@
+#formulario {
+    margin: 0;
+    background: white;
+}
+
+form {
+    width: 650px;
+    margin: auto;
+    padding: 10px 20px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    background: white;
+    border-radius: 7px;
+    font-family: Tahoma;
+}
+
+input{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px ;
+    box-sizing: border-box;
+    font-size: 27px;
+    border: 1px solid lightblue;
+    border-radius: 7px;
+
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 50px;
+    border:1px solid lightblue;
+    border-radius: 7px;
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+#boton {
+    background: green;
+    color: white;
+    width: 100%;
+    padding: 5px;
+}
+
+#boton:hover {
+    cursor: pointer;
+}
